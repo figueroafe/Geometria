@@ -15,7 +15,7 @@ public class App {
 		Rectangulo rec1 = new Rectangulo(p1, p2, p0);
 		Rectangulo rec2 = new Rectangulo(p4, p6, p0);
 
-		System.out.println(rec2.IntersectaCuadrado(rec1));
+		System.out.println(rec2.IntersectaConCuadrado(rec1));
 
 	}
 
